@@ -93,3 +93,17 @@ No se observa diferencia entre la población total de clientes hombres y mujeres
 Después de llevar a cabo el análisis exploratorio, se encontró que las variables con mayor influencia en la decisión de abandono por parte de los clientes, son:
 
 * Son adultos mayores.
+
+
+
+<br>
+
+## Recomendaciones
+
+Con base en las conclusiones arriba enlistadas, a continuacións e sugieren algunas estrategias de retención.
+
+1. Para clientes mayores de 65 años:
+    * Planes especiales con descuentos para seniors.
+    * Atención personalizada y enfocada.
+    * Beneficios adicionales por lealtad.
+    * Programas de entrenamiento y acompañamiento tecnológico.
