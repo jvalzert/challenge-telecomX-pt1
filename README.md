@@ -80,7 +80,7 @@ No se observa diferencia entre la población total de clientes hombres y mujeres
 |<65 años|23.3|23.9|
 |65+ años|41.1|42.3|
 
-<div>
+</div>
 
 
 
