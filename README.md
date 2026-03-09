@@ -167,7 +167,7 @@ A continuación de muestra la información de la base de datos terminada.
 
 </div>
 
-Esta base de datos fue resguardada como un nuevo archivo de valores separados por comas, para posteriormente ser analizado en el proyecto [**Telecom X, parte 2: Machine Learning**](********)
+Esta base de datos fue resguardada como un nuevo archivo de valores separados por comas, para posteriormente ser analizado en el proyecto [**Telecom X, parte 2: Machine Learning**](https://github.com/jvalzert/challenge-telecomX-pt2)
 
 ```python
 clientes.to_csv('data_TelecomX_clean.csv',index=False)
